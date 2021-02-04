@@ -1,5 +1,5 @@
 $ErrorActionPreference = "Stop"
-$ExcludePackages = @("ezchakra")
+$ExcludePackages = @("ezchakra", "ezmgr")
 
 class NimblePackage {
   [string]$Name
