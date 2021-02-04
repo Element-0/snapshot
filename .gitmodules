@@ -1,0 +1,39 @@
+[submodule "packages/chakra"]
+	path = packages/chakra
+	url = https://github.com/Element-0/chakra
+[submodule "packages/ezmgr"]
+	path = packages/ezmgr
+	url = https://github.com/Element-0/ezmgr
+[submodule "packages/common"]
+	path = packages/common
+	url = https://github.com/Element-0/common
+[submodule "packages/pdbparser"]
+	path = packages/pdbparser
+	url = https://github.com/Element-0/pdbparser
+[submodule "packages/cppinterop"]
+	path = packages/cppinterop
+	url = https://github.com/Element-0/cppinterop
+[submodule "packages/binpak"]
+	path = packages/binpak
+	url = https://github.com/Element-0/binpak
+[submodule "packages/pipe"]
+	path = packages/pipe
+	url = https://github.com/Element-0/pipe
+[submodule "packages/curl"]
+	path = packages/curl
+	url = https://github.com/Element-0/curl
+[submodule "packages/sqlite3"]
+	path = packages/sqlite3
+	url = https://github.com/Element-0/sqlite3
+[submodule "packages/funchook"]
+	path = packages/funchook
+	url = https://github.com/Element-0/funchook
+[submodule "packages/utils"]
+	path = packages/utils
+	url = https://github.com/Element-0/utils
+[submodule "packages/ntapi"]
+	path = packages/ntapi
+	url = https://github.com/Element-0/ntapi
+[submodule "packages/xmlcfg"]
+	path = packages/xmlcfg
+	url = https://github.com/Element-0/xmlcfg
