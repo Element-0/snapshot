@@ -40,3 +40,6 @@
 [submodule "packages/nim-prompt"]
 	path = packages/nim-prompt
 	url = https://github.com/Element-0/nim-prompt
+[submodule "packages/fusion"]
+	path = packages/fusion
+	url = https://github.com/nim-lang/fusion
