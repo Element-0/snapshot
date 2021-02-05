@@ -37,3 +37,6 @@
 [submodule "packages/xmlcfg"]
 	path = packages/xmlcfg
 	url = https://github.com/Element-0/xmlcfg
+[submodule "packages/nim-prompt"]
+	path = packages/nim-prompt
+	url = https://github.com/Element-0/nim-prompt
