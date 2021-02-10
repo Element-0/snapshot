@@ -43,3 +43,21 @@
 [submodule "packages/fusion"]
 	path = packages/fusion
 	url = https://github.com/nim-lang/fusion
+[submodule "packages/xmlio"]
+	path = packages/xmlio
+	url = https://github.com/codehz/xmlio
+[submodule "packages/nim-vtable"]
+	path = packages/nim-vtable
+	url = https://github.com/codehz/nim-vtable
+[submodule "packages/nim-winres"]
+	path = packages/nim-winres
+	url = https://github.com/codehz/nim-winres
+[submodule "packages/cligen"]
+	path = packages/cligen
+	url = https://github.com/c-blake/cligen
+[submodule "packages/ezmodutils"]
+	path = packages/ezmodutils
+	url = https://github.com/Element-0/ezmodutils
+[submodule "packages/winim"]
+	path = packages/winim
+	url = https://github.com/khchen/winim
